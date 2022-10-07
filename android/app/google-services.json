@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "142947300988",
+    "project_id": "alonanote",
+    "storage_bucket": "alonanote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142947300988:android:b58fa7ac341bc93ff77bf9",
+        "android_client_info": {
+          "package_name": "com.example.alona_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142947300988-cmkh7qjcobvm046rld1obta4htjcnfs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv0ZZEbHGWYBGAOitk2c-RlknoE-NyqgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142947300988-cmkh7qjcobvm046rld1obta4htjcnfs1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "142947300988-urtct0rc1gtud1c2v893aa3dih01j3he.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.alonaNote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
